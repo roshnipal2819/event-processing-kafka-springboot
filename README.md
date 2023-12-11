@@ -5,7 +5,7 @@ Process the kafka event,filter data and Integrate with API
 
 Run below commad 
 
-$ cd src/main/resources/PGAdmin/
+$ cd src/main/resources/PGAdmin
 
 $ docker-compose up .
 
